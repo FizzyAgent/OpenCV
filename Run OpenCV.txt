@@ -1,0 +1,3 @@
+pip install numpy-1.14.5-cp36-none-win32.whl
+
+C:\Python36\python.exe D:\OR\
